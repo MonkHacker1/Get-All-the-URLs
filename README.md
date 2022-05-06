@@ -5,7 +5,7 @@ This tool will give you all the URLs realted to a query string.And This Tool is 
 1. sudo git clone https://github.com/MonkHacker1/Get-All-the-URLs.git
 2. cd Get-All-the-URLs
 3. pip3 install -r requirements.txt
-You are now ready to go..
+4. You are now ready to go..
 # Usage
 1. python3 get_urls.py  [Hit enter]
 2. Enter the string
@@ -13,6 +13,3 @@ You are now ready to go..
 
 
 Thankyou
-^__^
-(oo)
-(__)
