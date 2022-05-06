@@ -7,7 +7,7 @@ import time
 from time import sleep
 import readline
 
-command = "toilet -f bigmono9 -F gay Aurls" #command to be executed
+
 
 print("\n")
 print(Fore.YELLOW+"-"*60)
